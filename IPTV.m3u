@@ -106,11 +106,11 @@ http://192.168.1.253:5200/rtp/239.77.1.92:5146
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://192.168.1.253:5200/rtp/239.77.0.61:5146
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://192.168.1.253:5200/rtp/239.77.0.149:5146
+http://192.168.1.253:5200/rtp/239.253.43.36:5146
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://192.168.1.253:5200/rtp/239.77.0.57:5146
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://192.168.1.253:5200/rtp/239.77.1.73:5146
+http://192.168.1.253:5200/rtp/239.77.0.149:5146
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://192.168.1.253:5200/rtp/239.77.1.214:5146
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
